@@ -6,7 +6,7 @@ The system supports multiple user roles including Admin, Student, Faculty, Staff
 
 This project simulates a real-life university parking scenario and focuses on reducing parking congestion, improving security, and ensuring proper utilization of parking spaces through a well-structured relational database.
 
-🚀 Key Features
+#🚀 Key Features
 
 Role-based authentication (Admin, Student, Faculty, Staff, Security)
 
@@ -24,7 +24,7 @@ Parking history and reporting
 
 Improved campus parking security
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 Frontend: HTML, CSS, JavaScript
 
